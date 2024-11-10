@@ -1,5 +1,5 @@
 var gData;
-var url =  'https://xxxxx/exec' 
+var url =  'https://script.google.com/macros/s/AKfycbynv9v1PkmTwM5rtLUle1UXfIrhfWZ65BSV7wbh9PvZR6zEGgCIl0LDfyx0BgEGTqDU/exec' 
 
   function getDataAPI() {  
     $('#d_table').html('<div class="col">Please Wait.....</div>') 
